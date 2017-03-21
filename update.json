@@ -1,0 +1,7 @@
+{
+  "packageManager": "github",
+  "name": "vz",
+  "repo": "Nilesh5/vz",
+  "files": {
+    "include": ["screentime.js"]
+ }
